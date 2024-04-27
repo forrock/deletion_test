@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="DELETE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_ssdsl_deletion_t.newsc1</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>newsc1</name>
+        <script><![CDATA[var newsc1 = Class.create();
+newsc1.prototype = {
+    initialize: function() {
+    },
+
+    type: 'newsc1'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>tk10.lee</sys_created_by>
+        <sys_created_on>2024-04-27 19:49:56</sys_created_on>
+        <sys_id>8fee4ec2c33d4e1094dd9fee05013124</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>newsc1</sys_name>
+        <sys_package display_value="deletion_test" source="x_ssdsl_deletion_t">6f52864e33fdca10d13088845d5c7b56</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="deletion_test">6f52864e33fdca10d13088845d5c7b56</sys_scope>
+        <sys_update_name>sys_script_include_8fee4ec2c33d4e1094dd9fee05013124</sys_update_name>
+        <sys_updated_by>tk10.lee</sys_updated_by>
+        <sys_updated_on>2024-04-27 19:52:48</sys_updated_on>
+    </sys_script_include>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="deletion_test">6f52864e33fdca10d13088845d5c7b56</application>
+        <file_path/>
+        <instance_id>1fd58fb7db980510ad8dd7c8f49619df</instance_id>
+        <instance_name>ven05131</instance_name>
+        <name>sys_script_include_8fee4ec2c33d4e1094dd9fee05013124</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_include"&gt;&lt;sys_script_include action="INSERT_OR_UPDATE"&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;active&gt;true&lt;/active&gt;&lt;api_name&gt;x_ssdsl_deletion_t.newsc1&lt;/api_name&gt;&lt;caller_access/&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;description/&gt;&lt;name&gt;newsc1&lt;/name&gt;&lt;script&gt;&lt;![CDATA[var newsc1 = Class.create();
+newsc1.prototype = {
+    initialize: function() {
+    },
+
+    type: 'newsc1'
+};]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_include&lt;/sys_class_name&gt;&lt;sys_created_by&gt;tk10.lee&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-04-27 19:49:56&lt;/sys_created_on&gt;&lt;sys_id&gt;8fee4ec2c33d4e1094dd9fee05013124&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;newsc1&lt;/sys_name&gt;&lt;sys_package display_value="deletion_test" source="x_ssdsl_deletion_t"&gt;6f52864e33fdca10d13088845d5c7b56&lt;/sys_package&gt;&lt;sys_policy&gt;read&lt;/sys_policy&gt;&lt;sys_scope display_value="deletion_test"&gt;6f52864e33fdca10d13088845d5c7b56&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_include_8fee4ec2c33d4e1094dd9fee05013124&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;tk10.lee&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-04-27 19:52:48&lt;/sys_updated_on&gt;&lt;/sys_script_include&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>78525746</payload_hash>
+        <record_name>newsc1</record_name>
+        <reverted_from/>
+        <source>f4cfc2caebf5c6504cfaf5dabad0cdf6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>tk10.lee</sys_created_by>
+        <sys_created_on>2024-04-27 19:53:31</sys_created_on>
+        <sys_id>94cf8ac2eb7186502b03f27bbad0cd3b</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>18f211e0a9d0000001</sys_recorded_at>
+        <sys_updated_by>tk10.lee</sys_updated_by>
+        <sys_updated_on>2024-04-27 19:53:31</sys_updated_on>
+        <type>Script Include</type>
+        <update_guid>da9f4a06f93d4e1033931424e35d4d3d</update_guid>
+        <update_guid_history>da9f4a06f93d4e1033931424e35d4d3d:78525746,18fe8282e03d4e107f8f350630ddf604:-2042790382</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>tk10.lee</sys_created_by>
+        <sys_created_on>2024-04-27 20:04:31</sys_created_on>
+        <sys_db_object display_value="" name="sys_script_include">sys_script_include</sys_db_object>
+        <sys_id>b8f902ee34e24182a412cd0746289224</sys_id>
+        <sys_metadata>8fee4ec2c33d4e1094dd9fee05013124</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>newsc1</sys_name>
+        <sys_package display_value="deletion_test" source="x_ssdsl_deletion_t">6f52864e33fdca10d13088845d5c7b56</sys_package>
+        <sys_parent/>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="deletion_test">6f52864e33fdca10d13088845d5c7b56</sys_scope>
+        <sys_scope_delete display_value="">4928735e99c3486faba4b9130b8d4bf9</sys_scope_delete>
+        <sys_update_name>sys_script_include_8fee4ec2c33d4e1094dd9fee05013124</sys_update_name>
+        <sys_update_version display_value="sys_script_include_8fee4ec2c33d4e1094dd9fee05013124">94cf8ac2eb7186502b03f27bbad0cd3b</sys_update_version>
+        <sys_updated_by>tk10.lee</sys_updated_by>
+        <sys_updated_on>2024-04-27 20:04:31</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
