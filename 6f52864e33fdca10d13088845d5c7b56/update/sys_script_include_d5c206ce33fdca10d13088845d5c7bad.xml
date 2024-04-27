@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_ssdsl_deletion_t.dsfdfghsfdh</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>dsfdfghsfdh</name>
+        <script><![CDATA[//sdfgasdfadsf]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>tk10.lee</sys_created_by>
+        <sys_created_on>2024-04-27 18:56:58</sys_created_on>
+        <sys_id>d5c206ce33fdca10d13088845d5c7bad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>dsfdfghsfdh</sys_name>
+        <sys_package display_value="deletion_test" source="x_ssdsl_deletion_t">6f52864e33fdca10d13088845d5c7b56</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="deletion_test">6f52864e33fdca10d13088845d5c7b56</sys_scope>
+        <sys_update_name>sys_script_include_d5c206ce33fdca10d13088845d5c7bad</sys_update_name>
+        <sys_updated_by>tk10.lee</sys_updated_by>
+        <sys_updated_on>2024-04-27 18:56:58</sys_updated_on>
+    </sys_script_include>
+</record_update>
