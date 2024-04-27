@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_fix">
+    <sys_script_fix action="DELETE">
+        <before>false</before>
+        <description/>
+        <name>yuihg</name>
+        <record_for_rollback>true</record_for_rollback>
+        <script><![CDATA[//gjktyjuy]]></script>
+        <sys_class_name>sys_script_fix</sys_class_name>
+        <sys_created_by>tk10.lee</sys_created_by>
+        <sys_created_on>2024-04-27 19:43:35</sys_created_on>
+        <sys_id>c17d4282c33d4e1094dd9fee050131dc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>yuihg</sys_name>
+        <sys_package display_value="deletion_test" source="x_ssdsl_deletion_t">6f52864e33fdca10d13088845d5c7b56</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="deletion_test">6f52864e33fdca10d13088845d5c7b56</sys_scope>
+        <sys_update_name>sys_script_fix_c17d4282c33d4e1094dd9fee050131dc</sys_update_name>
+        <sys_updated_by>tk10.lee</sys_updated_by>
+        <sys_updated_on>2024-04-27 19:43:35</sys_updated_on>
+        <unloadable>false</unloadable>
+    </sys_script_fix>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="deletion_test">6f52864e33fdca10d13088845d5c7b56</application>
+        <file_path/>
+        <instance_id>1fd58fb7db980510ad8dd7c8f49619df</instance_id>
+        <instance_name>ven05131</instance_name>
+        <name>sys_script_fix_c17d4282c33d4e1094dd9fee050131dc</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_fix"&gt;&lt;sys_script_fix action="INSERT_OR_UPDATE"&gt;&lt;before&gt;false&lt;/before&gt;&lt;description/&gt;&lt;name&gt;yuihg&lt;/name&gt;&lt;record_for_rollback&gt;true&lt;/record_for_rollback&gt;&lt;script&gt;&lt;![CDATA[//gjktyjuy]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_fix&lt;/sys_class_name&gt;&lt;sys_created_by&gt;tk10.lee&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-04-27 19:43:35&lt;/sys_created_on&gt;&lt;sys_id&gt;c17d4282c33d4e1094dd9fee050131dc&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;yuihg&lt;/sys_name&gt;&lt;sys_package display_value="deletion_test" source="x_ssdsl_deletion_t"&gt;6f52864e33fdca10d13088845d5c7b56&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="deletion_test"&gt;6f52864e33fdca10d13088845d5c7b56&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_fix_c17d4282c33d4e1094dd9fee050131dc&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;tk10.lee&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-04-27 19:43:35&lt;/sys_updated_on&gt;&lt;unloadable&gt;false&lt;/unloadable&gt;&lt;/sys_script_fix&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>846484888</payload_hash>
+        <record_name>yuihg</record_name>
+        <reverted_from/>
+        <source>28ae028aebf5c6504cfaf5dabad0cd18</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>tk10.lee</sys_created_by>
+        <sys_created_on>2024-04-27 19:48:35</sys_created_on>
+        <sys_id>fb9e8e4aebf5c6504cfaf5dabad0cd4e</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>18f21159c200000001</sys_recorded_at>
+        <sys_updated_by>tk10.lee</sys_updated_by>
+        <sys_updated_on>2024-04-27 19:48:35</sys_updated_on>
+        <type>Fix Script</type>
+        <update_guid>1f7d0242433d4e108aa70499e47876bc</update_guid>
+        <update_guid_history>1f7d0242433d4e108aa70499e47876bc:846484888</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>tk10.lee</sys_created_by>
+        <sys_created_on>2024-04-27 20:14:25</sys_created_on>
+        <sys_db_object display_value="" name="sys_script_fix">sys_script_fix</sys_db_object>
+        <sys_id>2acc38c3de8342508d59e3ccc2aa6100</sys_id>
+        <sys_metadata>c17d4282c33d4e1094dd9fee050131dc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>yuihg</sys_name>
+        <sys_package display_value="deletion_test" source="x_ssdsl_deletion_t">6f52864e33fdca10d13088845d5c7b56</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="deletion_test">6f52864e33fdca10d13088845d5c7b56</sys_scope>
+        <sys_scope_delete display_value="">4928735e99c3486faba4b9130b8d4bf9</sys_scope_delete>
+        <sys_update_name>sys_script_fix_c17d4282c33d4e1094dd9fee050131dc</sys_update_name>
+        <sys_update_version display_value="sys_script_fix_c17d4282c33d4e1094dd9fee050131dc">fb9e8e4aebf5c6504cfaf5dabad0cd4e</sys_update_version>
+        <sys_updated_by>tk10.lee</sys_updated_by>
+        <sys_updated_on>2024-04-27 20:14:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
